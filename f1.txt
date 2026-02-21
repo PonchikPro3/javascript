@@ -1,2 +1,3 @@
 b2 com1
 b2 com2
+b2 com3
